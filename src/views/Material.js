@@ -23,7 +23,7 @@ function Material() {
             </div>
             <div className={cx('content_intro')}>
               <div>
-                Doanh Nghiệp : được thành lập ngày 16/02/1998, đến nay đã hoạt động được trên 9 năm trong lĩnh vực nội
+                Doanh Nghiệp : được thành lập ngày 16/02/1998, đến nay đã hoạt động được trên 25 năm trong lĩnh vực nội
                 thất ghế sofa.
               </div>
               <div> <br/>

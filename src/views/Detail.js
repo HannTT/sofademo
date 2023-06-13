@@ -91,7 +91,7 @@ function Detail() {
           <div>
             Tình trạng thực tế của ghế qua các hình ảnh được nhận viên khảo sát chụp lại đã cho thấy lớp da cũ của ghế
             xuống cấp và không thể sử dụng được nữa. Nhưng phần ruột đệm bên trong lại vẫn căng đẹp và chưa có dấu hiệu
-            xẹp lún, chất lượng khá tốt. Đây chính là lí do mà khách hàng không vứt bỏ ghế mà tìm đến Vinaco. Sau khi
+            xẹp lún, chất lượng khá tốt. Đây chính là lí do mà khách hàng không vứt bỏ ghế mà tìm đến chúng tôi. Sau khi
             chọn được chất da mới ưng ý, chúng tôi đã tiến hành tháo vỏ bọc cũ và sản xuất, bọc lại vỏ bọc mới cho bộ ghế
             này, dưới đây chính là kết quả của bộ sofa sau khi được thay áo mới.
           </div>

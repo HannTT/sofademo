@@ -29,7 +29,7 @@ function SofaFabric() {
                 trở nên bẩn và mốc. Khi đó bạn nên sử dụng dịch vụ bọc ghế sofa vải của Nội Thất Việt Nam.
               </div>
               <div>
-                Đến với Vinaco bạn có thể thoải mái lựa chọn màu sắc hay hoa văn mới để thay đổi không gian cho phong
+                Đến với chúng tôi bạn có thể thoải mái lựa chọn màu sắc hay hoa văn mới để thay đổi không gian cho phong
                 khách. Hơn nữa khi sử dụng dịch vụ bọc ghế của chúng tôi, bạn sẽ được tư vấn phối màu với đồ đạc và bộ
                 ghế cũ cũng được gia cố chắc chắn với chi phí thấp mà bạn vẫn có một bộ ghế sofa mới và hợp với xu
                 hướng. Hãy gọi cho chúng tôi theo hotline để được tư vẫn miễn phí nhé!

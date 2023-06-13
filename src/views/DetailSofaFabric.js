@@ -25,7 +25,7 @@ function Detail() {
             Bộ ghế sofa của khách hàng ở Lê Đức Thọ là một bộ sofa bọc da, vì thời gian sử dụng ghế khá lâu rồi nên mặt
             ngồi đã xuất hiện chi chít các vết nứt trắng – điều này ảnh hưởng khá lớn đến tính thẩm mỹ của bộ ghế. Bộ
             ghế này được nhập khẩu với giá thành khá cao, kiểu dáng cũng rất đặc biệt nên gia đình không muốn vứt bỏ mà
-            gọi Vinaco đến để bọc lại phần mặt ngồi của ghế bị nứt.
+            gọi chúng tôi đến để bọc lại phần mặt ngồi của ghế bị nứt.
             <h3>Hình ảnh bộ ghế sofa da cũ của khách hàng</h3>
           </div>
           <div>
@@ -58,7 +58,7 @@ function Detail() {
             Vết rách này có nguyên nhân một phần do đường chỉ may bị rút núm kéo quá căng, một phần do da bọc ghế chất
             lượng không tốt, dẫn đến tình trạng rách kéo dài như vậy. Rách khá to đã nhìn được cả ruột mút bên trong,
             nếu cứ để thêm một khoảng thời gian nữa, vết rách này sẽ lan ra cả ghế, thậm chí mút bên trong cũng sẽ bị
-            mục do tiếp xúc với bụi bẩn và cọ sát thường xuyên. Gia đình đã gọi cho Vinaco để đổi vỏ bọc mới cho bộ ghế
+            mục do tiếp xúc với bụi bẩn và cọ sát thường xuyên. Gia đình đã gọi cho chúng tôi để đổi vỏ bọc mới cho bộ ghế
             này. Khi lựa chọn chất liệu, cả nhà đã rất băng khoăn không biết nên tiếp tục sử dụng da hay chuyển sang
             vải, vì da dùng khá sạch mà vải thì lại bền và dễ dùng hơn.
           </div>
